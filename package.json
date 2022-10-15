@@ -1,0 +1,15 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/julius-happy/home.git/",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
